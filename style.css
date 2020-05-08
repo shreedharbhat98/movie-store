@@ -1,0 +1,17 @@
+.list-box {
+    background-color: #B0BEC5;
+    border: 2px solid white;
+}
+
+li {
+    list-style-type: none;
+}
+
+.gradient {
+    background: #a8c0ff;
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);
+    background: linear-gradient(to right, #3f2b96, #a8c0ff);
+    min-height: 50px;
+    color: white;
+    font-family: 'Lemon', cursive;
+}
